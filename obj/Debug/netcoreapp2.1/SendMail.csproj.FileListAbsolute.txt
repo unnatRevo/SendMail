@@ -1,0 +1,11 @@
+/home/unnat/Desktop/Dotnet/SendMail/bin/Debug/netcoreapp2.1/SendMail.deps.json
+/home/unnat/Desktop/Dotnet/SendMail/bin/Debug/netcoreapp2.1/SendMail.runtimeconfig.json
+/home/unnat/Desktop/Dotnet/SendMail/bin/Debug/netcoreapp2.1/SendMail.runtimeconfig.dev.json
+/home/unnat/Desktop/Dotnet/SendMail/bin/Debug/netcoreapp2.1/SendMail.dll
+/home/unnat/Desktop/Dotnet/SendMail/bin/Debug/netcoreapp2.1/SendMail.pdb
+/home/unnat/Desktop/Dotnet/SendMail/obj/Debug/netcoreapp2.1/SendMail.csprojAssemblyReference.cache
+/home/unnat/Desktop/Dotnet/SendMail/obj/Debug/netcoreapp2.1/SendMail.csproj.CoreCompileInputs.cache
+/home/unnat/Desktop/Dotnet/SendMail/obj/Debug/netcoreapp2.1/SendMail.AssemblyInfoInputs.cache
+/home/unnat/Desktop/Dotnet/SendMail/obj/Debug/netcoreapp2.1/SendMail.AssemblyInfo.cs
+/home/unnat/Desktop/Dotnet/SendMail/obj/Debug/netcoreapp2.1/SendMail.dll
+/home/unnat/Desktop/Dotnet/SendMail/obj/Debug/netcoreapp2.1/SendMail.pdb

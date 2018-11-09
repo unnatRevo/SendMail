@@ -1,0 +1,61 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "8e9bb316529cf1955e86516d086b1e9e7fe2e245"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "SendMail/1.0.0": {
+        "dependencies": {
+          "CsvHelper": "8.2.0"
+        },
+        "runtime": {
+          "SendMail.dll": {}
+        }
+      },
+      "CsvHelper/8.2.0": {
+        "dependencies": {
+          "Microsoft.CSharp": "4.4.0",
+          "System.Reflection.TypeExtensions": "4.4.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/CsvHelper.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.0.0"
+          }
+        }
+      },
+      "Microsoft.CSharp/4.4.0": {},
+      "System.Reflection.TypeExtensions/4.4.0": {}
+    }
+  },
+  "libraries": {
+    "SendMail/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CsvHelper/8.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3kGDEzeQie0zeqeo0oNhevcytaji30kf3/KyFy0kXcbWzdo6+2D0vDwGIj5h6oGD4NQSY77TaXagbJTbkFeJag==",
+      "path": "csvhelper/8.2.0",
+      "hashPath": "csvhelper.8.2.0.nupkg.sha512"
+    },
+    "Microsoft.CSharp/4.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ShGjgRL3UHUXcoPSlq8jDB6b+9WHo4n8VcY9ex7egt6kuHFuK3Z6BUN9ClF3Y8dR1yIoaRkHPQBfX/IH5i/YXg==",
+      "path": "microsoft.csharp/4.4.0",
+      "hashPath": "microsoft.csharp.4.4.0.nupkg.sha512"
+    },
+    "System.Reflection.TypeExtensions/4.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-JRxOAH6by+wn1gNnZc9jf2HbO/szhMJuLY2w44nEW77354WntXlFzWSVkx6280Uvcl3URZ/At+444vjX0/X1Aw==",
+      "path": "system.reflection.typeextensions/4.4.0",
+      "hashPath": "system.reflection.typeextensions.4.4.0.nupkg.sha512"
+    }
+  }
+}
